@@ -1,0 +1,54 @@
+{"details":{
+  "image":"prabhas.jpg",
+  "name":"pavan",
+  "phoneno":"+91-9951394089",
+  "email":"ppavanklayan9951@gmail.com",
+  "address":"mic college of technology"
+},
+"career":{
+  "head":"career objective",
+  "para":"facing the problem while situation comes"
+},
+"education":[{
+  "qualification":"B.tech",
+  "Institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"70%"
+},
+{
+"qualification":"intermedite",
+"Institute":"sri medh v",
+"year":"2014-2016",
+"percentage":"70%"
+},
+{
+"qualification":"SSC",
+"Institute":"nalanda english medium high school",
+"year":"2013-2014",
+"percentage":"80%"
+}
+],
+
+"skills":[
+  {
+  "title":"programming language",
+  "info":["C++,C,JAVA,R,Python"]
+ },
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql"]
+},
+{
+  "title":"Operating systems",
+  "info":["windows,linux,Dos"]
+}
+],
+
+  "Achievements":[
+    {
+      "title":"prizes",
+      "info":["won the race in top level match"]
+
+}
+]
+}

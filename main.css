@@ -1,11 +1,9 @@
-*{
-  color:rgb(150,10,250);
-}
 .parent{
   border: 2px solid green;
   display: flex;
   flex-direction: row;
-  background-image: url(4.jpg)
+  background-image: url(back.jpg);
+  background-size: cover;
 }
 .childone{
   border:2px solid orange;
